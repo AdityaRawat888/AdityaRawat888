@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=adityarawat888&label=Profile%20views&color=0e75b6&style=flat" alt="adityarawat888" />
 </p>
 
-- 🌱 I’m currently learning **MERN stack**  
+- 🌱 I’m currently learning **Java Full Stack Web Development**  
 - 💬 Ask me about **Data Science and AI**  
 - 📫 How to reach me: **ranavikrama135@gmail.com**  
 - ⚡ Fun fact: **I think I am a funny guy 😊😊**
